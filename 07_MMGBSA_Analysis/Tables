@@ -1,0 +1,13 @@
+**Table X.** MM/GBSA energy decomposition of SfruGOBP1 in complex with eicosatrienoic acid methyl ester and 1-phenyl-1-butene.
+
+| Energy component | SfruGOBP1–Eicosatrienoic acid methyl ester | SfruGOBP1–1-phenyl-1-butene |
+|:---|:---:|:---:|
+| Van der Waals energy (ΔE<sub>vdW</sub>) | −50.21 ± 0.42 | −23.80 ± 0.42 |
+| Electrostatic energy (ΔE<sub>ele</sub>) | −0.78 ± 0.16 | −0.11 ± 0.01 |
+| Generalized Born solvation energy (ΔG<sub>GB</sub>) | +9.90 ± 0.14 | +2.16 ± 0.14 |
+| Surface area energy (ΔG<sub>SA</sub>) | −7.34 ± 0.06 | −3.36 ± 0.05 |
+| Polar contribution (ΔG<sub>polar</sub>) | +9.12 ± 0.22 | +2.05 ± 0.14 |
+| Nonpolar contribution (ΔG<sub>nonpolar</sub>) | −57.55 ± 0.42 | −27.16 ± 0.42 |
+| **Total MM/GBSA energy (ΔG<sub>MM/GBSA</sub>)** | **−48.42 ± 0.34** | **−25.10 ± 0.34** |
+
+*Values are expressed as mean ± block standard error of the mean (SEM) in kcal mol⁻¹.*
